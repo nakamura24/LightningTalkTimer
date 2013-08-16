@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lightning Talk Timer</string>
+    <string name="hello_world">5:00</string>
+    <string name="button_start">スタート</string>
+    <string name="button_stop">ストップ</string>
+    <string name="button_reset">リセット</string>
+    <string name="common_text_bug_report">予期しないエラーが発生しました。開発元にエラーを送信してください。</string>
+    <string name="common_text_cancel">キャンセル</string>
+    <string name="common_text_error">エラー</string>
+    <string name="common_text_send">送信</string>
+    
+</resources>
